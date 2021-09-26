@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tobiaswittenburg
-- 👀 I’m interested in Software Developmen
+- 👀 I’m interested in Software Development, DevOps, SecDevOps, GitHub and Azure DevOps.
 - 🌱 I’m currently learning to dive deeper into web technologies
 - 💞️ I’m looking to collaborate on code and music
 - 📫 How to reach me 
