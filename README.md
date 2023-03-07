@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tobiaswittenburg
 - 👀 I’m interested in Software Development, DevOps, SecDevOps, GitHub and Azure DevOps.
-- 🌱 I’m currently learning to dive deeper into web technologies
-- 💞️ I’m looking to collaborate on code and music
 - 📫 How to reach me 
+- 🎵 Progressive Rock, Metal, Jazz
 
 <!---
 tobiaswittenburg/tobiaswittenburg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
